@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "normal": {
+      "model": "duelcraft:kaiba_crystal_ore"
+    },
+    "inventory": {
+      "model": "duelcraft:kaiba_crystal_ore"
+    }
+  }
+}
